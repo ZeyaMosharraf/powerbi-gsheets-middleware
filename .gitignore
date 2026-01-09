@@ -1,0 +1,22 @@
+# --- OS Junk Files (Keep your repo clean) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs and Databases ---
+*.log
+*.sqlite
+
+# --- Dependencies ---
+node_modules/
+package-lock.json
+
+# --- Editor Settings ---
+.vscode/
+.idea/
+
+# --- SECURITY (CRITICAL) ---
+.env
+secret.json
+creds.json
+client_secret.json
