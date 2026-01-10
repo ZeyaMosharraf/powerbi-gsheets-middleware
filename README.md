@@ -14,7 +14,7 @@ It handles authentication, manages API burst limits to prevent bans, and seriali
 
 ## **System Architecture**
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](./docs/architecture.jpg)
 
 *The middleware manages the handshake between Power BI's requests and Google's API limits.*
 
